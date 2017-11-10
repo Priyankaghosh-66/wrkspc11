@@ -1,0 +1,11 @@
+package com;
+
+public class Main {
+	public static void main(String [] args)
+	{
+		Threadtest t1=new Threadtest();
+		t1.start();
+		System.out.println("main thread");
+	}
+
+}
