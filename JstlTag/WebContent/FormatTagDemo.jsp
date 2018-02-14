@@ -10,7 +10,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<c:set var="Amount" value="789.089"></c:set>
+<c:set var="Amount" value="0789.089"></c:set>
+<fmt:formatNumber value="${Amount}" type="currency" /></p> 
 <fmt:parseNumber var="j" type="number" value="${Amount }"/>
 <p><i>Amount of j is:</i><c:out value="${j }"></c:out></p>
 <fmt:parseNumber var="j" integerOnly="true" type="number" value="${Amount }"/>

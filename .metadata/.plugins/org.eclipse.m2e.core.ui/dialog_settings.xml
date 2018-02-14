@@ -50,6 +50,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\wrkspc11\Priyanka"/>
+			<item value="E:\wrkspc11\Priyanka\src\main\webapp\WEB-INF"/>
+			<item value="E:\wrkspc11\ThreadDemo\src\com\Main.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -62,13 +65,23 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="demo.webmain"/>
+			<item value="demo.nit"/>
+			<item value="demo.com.friend.module"/>
+			<item value="demo.niit"/>
+			<item value="demo.Priyanka"/>
+			<item value="com.demo.niit"/>
+			<item value="com.niit"/>
 		</list>
 		<list key="groupId">
 			<item value="demo"/>
+			<item value="com"/>
 		</list>
 		<list key="artifactId">
-			<item value="webmain"/>
+			<item value="nit"/>
+			<item value="com.friend.module"/>
+			<item value="niit"/>
+			<item value="Priyanka"/>
+			<item value="demo.niit"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

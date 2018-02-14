@@ -124,7 +124,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="E:\wrkspc11\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="E:\wrkspc11\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\sure" path="/sure" reloadable="true" source="org.eclipse.jst.j2ee.server:sure"/><Context docBase="E:\wrkspc11\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\cIf" path="/cIf" reloadable="true" source="org.eclipse.jst.jee.server:cIf"/><Context docBase="E:\wrkspc11\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JstlTag" path="/JstlTag" reloadable="true" source="org.eclipse.jst.jee.server:JstlTag"/><Context docBase="E:\wrkspc11\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\webmain" path="/webmain" reloadable="true" source="org.eclipse.jst.j2ee.server:webmain"/></Host>
+      <Context docBase="E:\wrkspc11\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="E:\wrkspc11\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\nit" path="/nit" reloadable="true" source="org.eclipse.jst.j2ee.server:nit"/></Host>
     </Engine>
   </Service>
 </Server>

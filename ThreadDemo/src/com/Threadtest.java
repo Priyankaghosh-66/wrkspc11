@@ -6,7 +6,7 @@ public class Threadtest implements Runnable {
 	{
 		for(int i=0;i<2;i++)
 		{
-		System.out.println("inside child thread");
+		System.out.println("running"+Thread.currentThread().getName());
 		}
 	}
 
